@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first real project of the Odin Project. In this project, I will demonstrate basic HTML funcionality including using links, images, and lists. By the end of this project, I should be familiar with all of these areas of HTML as well the boilerplate and basic formatting techniques. 
