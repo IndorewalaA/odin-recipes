@@ -1,47 +1,40 @@
-*{
-    background-color: #AFDDE5;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+body {
+    background-color: #e5f4f9;
 }
 
-h1 {
+div {
     text-align: center;
-    color: #003135;
+    margin: auto;
 }
 
-h2 {
-    color: #964734;
+div.index {
+    padding: 10px;
+    margin: 10px;
+    height: 80px;
 }
 
-li {
-    color: #024950;
-    font-size: 18px;
-    text-align: left;;
+div.french-desc {
+    text-align: left;
 }
 
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+.title {
+    background-color: #193f6e;
+    color: white;
 }
 
-.bullet {
+.french-toast {
+    background-color: #3b6ba5;
+}
+
+.peanut-butter-oatmeal {
+    background-color: #72a5d3;
+}
+
+.greek-yogurt-chia-pudding {
+    background-color: #97cbdc;
+}
+
+.ft-title {
+    color: #3b6ba5;
     font-size: 20px;
-    text-align: left;
-}
-
-li.ing {
-    font-weight: bold;
-}
-
-#recipes-title {
-    font-weight: bold;
-    font-size: 50px;
-    text-align: left;
-
-}
-
-.desc {
-    color: #024950;
-    font-size: 18px;
 }
