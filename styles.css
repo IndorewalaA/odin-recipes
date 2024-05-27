@@ -13,8 +13,19 @@ div.index {
     height: 80px;
 }
 
-div.french-desc {
+div.ft-body {
     text-align: left;
+    color: #333333;
+}
+
+div.gy-body {
+    text-align: left;
+    color: #333333;
+}
+
+div.pb-body {
+    text-align: left;
+    color: #333333;
 }
 
 .title {
@@ -37,4 +48,26 @@ div.french-desc {
 .ft-title {
     color: #3b6ba5;
     font-size: 20px;
+}
+
+.ft-subtitle {
+    color: #3b6ba5;
+}
+
+.pb-title {
+    color: #72a5d3;
+    font-size: 20px;
+}
+
+.pb-subtitle {
+    color: #72a5d3;
+}
+
+.gy-title { 
+    color: #97cbdc;
+    font-size: 20px;
+}
+
+.gy-subtitle {
+    color: #97cbdc;
 }
